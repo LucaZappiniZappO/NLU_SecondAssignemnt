@@ -12,6 +12,6 @@ The function group_entities takes as input the document and recognized named ent
 The evaluation of the frequancy are done separatly by creating a dict for te frequency by counting the number of istances of each type of the entity tipe
 
 # TASK 3
-The third task is done in the function  `exstend_entity_span`
+The third task is done in the function  `exstend_entity_span` by inspection token.dep compuoind and assing to that the same token entity type as the token head.
 
 
